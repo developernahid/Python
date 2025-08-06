@@ -11,6 +11,6 @@ print(len(list4))
 
 #List indexing 0----n & -n---0 hoy
 print(list4[0])
-print(list4[-1])
+print(list4[-3]) #reverse order 
 print(list4[2:5])
 print(list4[:6])
