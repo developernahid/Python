@@ -1,4 +1,4 @@
-data = [1, 1, 2, 3, 4, 5, 6]
+data = [1, 1, 2, 3,3,3, 4, 5, 6]
 frequency = {}
 
 for i in data:
